@@ -1,16 +1,13 @@
 # calculator_vd
 
-A new Flutter project.
+simple Calculator  designed  by [Daniela Vornic](https://dribbble.com/shots/14859541-Daily-UI-004-Calculator) 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<div>
+<img src=".images/screeshot.png"></img>
+</div>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+BLoC pattern was used.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
